@@ -3,7 +3,7 @@
 
 #### Team Members:  Dave Cook, Caroline Egan, Wranga Mujadidi, Sara Parker
 
-##### Domain:  Government / Health
+##### **Domain:**  Government / Health
 
 ##### Abstract :  Drug overdose is the leading cause of accidental death in the US, with 52,404 lethal drug overdoses in 2015. Opioid addiction is driving this epidemic, with 20,101 overdose deaths related to prescription pain relievers, and 12,990 overdose deaths related to heroin in 2015 (CDC, ASAM). Adequate distribution and administration of narcan (naloxone HCl) is key to lowering mortality due to opiate overdose. 
 
@@ -11,7 +11,7 @@
 
 ##### Hypothesis:  
 
-##### Data Sources:  (1) 
+##### Data Sources: 
 ###### 2016 DC Narcan Administration Data
 ###### 2016 DC Calls for Service
 ###### 2016 DC Weather Data. 

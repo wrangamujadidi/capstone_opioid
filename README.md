@@ -5,9 +5,7 @@
 
 **Domain:**  Government / Health
 
-**Abstract:**  Drug overdose is the leading cause of accidental death in the US, with 52,404 lethal drug overdoses in 2015. Opioid addiction is driving this epidemic, with 20,101 overdose deaths related to prescription pain relievers, and 12,990 overdose deaths related to heroin in 2015 (CDC, ASAM). Adequate distribution and administration of narcan (naloxone HCl) is key to lowering mortality due to opiate overdose. 
-
-In this study, our team uses classification machine learning models to predict which areas in DC are most likely to utilize narcan. Our model is trained on 2016 narcan administration data calls for service data provided by DC government’s Office of Unified Communications.
+**Abstract:**  Drug overdose is the leading cause of accidental death in the US, with 52,404 lethal drug overdoses in 2015. Opioid addiction is driving this epidemic, with 20,101 overdose deaths related to prescription pain relievers, and 12,990 overdose deaths related to heroin in 2015 (CDC, ASAM). Adequate distribution and administration of narcan (naloxone HCl) is key to lowering mortality due to opiate overdose. In this study, our team uses classification machine learning models to predict which areas in DC are most likely to utilize narcan. Our model is trained on 2016 narcan administration data calls for service data provided by DC government’s Office of Unified Communications. Ultimately, our decision tree shows that the type of call is the best predictor of whether or not a call will result in the utilization of narcan (Precision =  0.92, Recall =  0.91, F1= 0.91). 
 
 **Hypothesis:** Initially, our working hypotheses was that it would be possible to predict geographic locations where opioid overdoses would occur, using narcan administration as a proxy. However, during feature selection, we found that geographic location was too strong of a predictor. As a result, we modified our hypothesis to: it is possible to use service call type to predict whether or not narcan will be administered. 
 

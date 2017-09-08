@@ -11,7 +11,7 @@ In this study, our team uses classification machine learning models to predict w
 
 **Hypothesis:** Initially, our working hypotheses was that it would be possible to predict geographic locations where opioid overdoses would occur, using narcan administration as a proxy. However, during feature selection, we found that geographic location was too strong of a predictor. As a result, we modified our hypothesis to: it is possible to use service call type to predict whether or not narcan will be administered. 
 
-#### Overview
+### Overview
 
 **Data Sources:**
 2016 DC Narcan Administration Data
